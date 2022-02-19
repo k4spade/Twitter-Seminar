@@ -52,4 +52,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Twitter_Week2.gif'
+<img src='Twitter_Week2.gif'/>
